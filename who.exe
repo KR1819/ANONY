@@ -1,2 +1,2 @@
-import os
-print(os.getlogin())
+import subprocess
+subprocess.run(["who.exe"])
