@@ -1,0 +1,9 @@
+import subprocess
+putty_path = r"C:\Program Files\PuTTY\putty.exe"
+ssh_connection = "username@hostname"
+command = [putty_path, ssh_connection]
+try:
+subprocess.run(command,check=True)
+print(f"Successfully launched Putty with connection: {ssh_connection]")
+except FilenotFoundError:
+print("Puttyexecutable not found.Please check the path to putty.exe.")
