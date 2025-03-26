@@ -1,2 +1,2 @@
-query user
-whoami 
+cmd.exe /c query user
+cmd.exe /c whoami 
