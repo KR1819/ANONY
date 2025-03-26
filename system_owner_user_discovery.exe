@@ -1,2 +1,2 @@
-cmd.exe /c query user > output.txt
-cmd.exe /c whoami > output.txt
+cmd.exe /c query user >> output.txt
+cmd.exe /c whoami >> output.txt
