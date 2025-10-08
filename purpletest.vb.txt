@@ -1,0 +1,10 @@
+Imports System
+Imports System.IO
+
+Module PurpleTest
+    Sub Main()
+        Dim p As String = Path.Combine(Environment.GetEnvironmentVariable("TEMP"), "purple_test_marker.txt")
+        File.AppendAllText(p, "PURPLE_TEST_MARKER - " & DateTime.Now.ToString("u") & Environment.NewLine)
+        Console.WriteLine("Wrote marker to: " & p)
+    End Sub
+End Module

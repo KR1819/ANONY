@@ -1,0 +1,18 @@
+import platform
+import pickle
+
+def get_os_info():
+    return {
+        "system": platform.system(),
+        "release": platform.release(),
+        "version": platform.version()
+    }
+
+def save_to_pickle(data, filename):
+    with open(filename, "wb") as f:
+        pickle.dump(data, f)
+
+if __name__ == "__main__":
+    os_info = get_os_info()
+    save_to_pickle(os_info, "os_info.pkl")
+    print("OS info saved to os_info.pkl")

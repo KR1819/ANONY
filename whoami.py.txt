@@ -1,0 +1,8 @@
+import getpass
+
+def who_am_i():
+    user = getpass.getuser()
+    print(f"Current user: {user}")
+
+if __name__ == "__main__":
+    who_am_i()
