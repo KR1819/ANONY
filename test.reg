@@ -3,3 +3,5 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\TestKey]
 "ExampleString"="Hello"
 "ExampleNumber"=dword:0000000a
+
+d2d9cee4c569a311a18821f2242e26a8383a6bacc0512f6628aa4f68831e3e95
