@@ -4,3 +4,4 @@ test.vb=eebfc3cdfcd445ebfe9ec00cd61d9e88e42950da63027eaab7d6a3fbfabeb80b
 https://github.com/KR1819/ANONY/blob/0aaab0e7d867b8ca8195b3de81e0f6d6b502b944/scan_results.pkl
 scan_results.p = 229a12cd1484fae3f492b540808d106fbb8fd02572b6263b42df9b3683ad6e76
 scan_results.pickle = 229a12cd1484fae3f492b540808d106fbb8fd02572b6263b42df9b3683ad6e76
+setup.pyw = 2915a0323d405ff6cfa2746ab170c68bc12fcc4f8b8745aa37e0df868a7a1146
