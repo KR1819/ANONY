@@ -15,3 +15,4 @@ Network-shortcut.lnk = 9a78fab2adc78e8f43f0a8e4b05b7f241d77cf36d03860da2015df9e9
 test.log.gtar = d19a26adf5b1d7ce01badd6c0e34a5612ad7ce3bfeea6df732e970bf413cc682 
 test-0.0.1.vsix = c0de3b2183477b96919688b52a935b746b9ae87c184aa53c764d7a2bd435cf58
 output.iso = aeb0bd6130a10ff37df3634e77ba7835445ed6700dd4170e351dacbc472e9c7d
+verify.nupkg.3.0.1.nupkg = 35b76b808ca9ab73c28a9b4a0aedd2b076b933cd73e743b585fb40c3b863ab71
